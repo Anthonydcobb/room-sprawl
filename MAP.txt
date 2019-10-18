@@ -27,9 +27,9 @@ S T A R T
      ||                  ||                    ||                                        ||                                                                                  ||
      ||                  ||                    ||                                        ||                                                                                  ||
  __________          __________            __________           __________           __________                                                                         __________	    	
-|          |        |           |         |          |         |          |         |          |                                                                        |          |
-| SMALL DI |        |           |         | DIRTY WA |         | BIG HALL |         | SQUEAKY  |             Bill and                                                     |LEPRECHAUN|	    |  Ted's    |
-| RTY ROOM |           phone              | LL       |---------|          |---------| HALLWAY  |          |  booth    |                                                 |  PORTAL  |
+|          |        |           |         |          |         |          |         |          |                                                                        |          |           Bill
+| SMALL DI |        |  &        |         | DIRTY WA |         | BIG HALL |         | SQUEAKY  |                                                              |LEPRECHAUN|	    |  Ted's    |
+| RTY ROOM |           phone              | LL       |---------|          |---------| HALLWAY  |                                                           |  PORTAL  |	       booth	
 |          |        |           |         |          |---------|          |---------|          |                                                                         |          |
 |          |        |           |         |          |         |          |         |          |                                                                         |          |
 |__________|        |___________|         |__________|         |__________|         |__________|                                                                        |__________|
